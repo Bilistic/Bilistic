@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bilistic
 - 👀 I’m interested in Data Science/Python/C/Web Dev/Scientific programming
 - 🌱 Enrolled MSC in Data Anaylitics
-     Enrolled MIOT RAF phase 1, Electronics Engineering Officer.
+- Engineering/Electronics.
 - 💞️ I’m looking to collaborate on big data/machine learning projects.
 - 📫 How to reach me: joshua.nuttall1996@gmail.com
 
